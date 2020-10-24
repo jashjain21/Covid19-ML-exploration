@@ -7,8 +7,11 @@ Word To Vec made using a neural network with log softmax function along with an 
 
 Finally a TSNE is plotted to depict the relation between various words
 
-![alt text](https://github.com/jashjain21/Covid19-ML-exploration/Website_pics/one.png?raw=true)
+## 1.
+![](../master/Website_pics/one.png?raw=true)
 
-![alt text](https://github.com/jashjain21/Covid19-ML-exploration/Website_pics/two.png?raw=true)
+## 2.
+![](../master/Website_pics/two.png?raw=true)
 
-![alt text](https://github.com/jashjain21/Covid19-ML-exploration/Website_pics/three.png?raw=true)
+## 3.
+![](../master/Website_pics/three.png?raw=true)
