@@ -6,5 +6,7 @@ def index(request):
     return render(request,'base.html')
 
 def search(request):
-    
-    return render(request,'search.html')
+    if request.method == "POST":
+    	research_papers=[]
+    	return render(request,"search.html",{"research_papers":research_papers})
+    return render(request,"search.html")
